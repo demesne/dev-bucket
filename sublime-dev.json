@@ -1,0 +1,20 @@
+{
+    "homepage": "https://www.sublimetext.com/3dev",
+    "version": "b3126",
+    "architecture": {
+        "64bit": {
+            "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203139%20x64.zip"
+        },
+        "32bit": {
+            "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203139.zip"
+        }
+    },
+    "bin": "subl.exe",
+    "notes": "This is a beta version of Sublime Text 3. For more information please see https://www.sublimetext.com/3",
+    "shortcuts": [
+        [
+            "sublime_text.exe",
+            "Sublime Text 3"
+        ]
+    ]
+}
