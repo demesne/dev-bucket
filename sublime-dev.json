@@ -10,7 +10,7 @@
         }
     },
     "bin": "subl.exe",
-    "notes": "This is a beta version of Sublime Text 3. For more information please see https://www.sublimetext.com/3",
+    "notes": "This is a beta version of Sublime Text 3. For more information please see https://www.sublimetext.com/3dev",
     "shortcuts": [
         [
             "sublime_text.exe",
