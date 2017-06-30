@@ -20,7 +20,7 @@
                 "url": "https://download.sublimetext.com/Sublime Text Build $cleanVersion.zip"
             }
         }
-    }
+    },
     "notes": "This is a beta version of Sublime Text 3. For more information please see https://www.sublimetext.com/3dev",
     "shortcuts": [
         [
