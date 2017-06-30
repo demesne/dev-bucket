@@ -1,12 +1,12 @@
 {
     "homepage": "https://www.sublimetext.com/3dev",
-    "version": "3140",
+    "version": "3139",
     "architecture": {
         "64bit": {
-            "url": "https://download.sublimetext.com/Sublime Text Build 3140 x64.zip"
+            "url": "https://download.sublimetext.com/Sublime Text Build 3139 x64.zip"
         },
         "32bit": {
-            "url": "https://download.sublimetext.com/Sublime Text Build 3140.zip"
+            "url": "https://download.sublimetext.com/Sublime Text Build 3139.zip"
         }
     },
     "bin": "subl.exe",
