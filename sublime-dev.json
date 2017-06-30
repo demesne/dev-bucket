@@ -3,13 +3,24 @@
     "version": "b3126",
     "architecture": {
         "64bit": {
-            "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203139%20x64.zip"
+            "url": "https://download.sublimetext.com/Sublime Text Build 3140 x64.zip"
         },
         "32bit": {
-            "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203139.zip"
+            "url": "https://download.sublimetext.com/Sublime Text Build 3140.zip"
         }
     },
     "bin": "subl.exe",
+    "checkver": "The current Sublime Text 3 dev build is ([^\\ ]+)",
+     "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://download.sublimetext.com/Sublime Text Build $cleanVersion x64.zip"
+            },
+            "32bit": {
+                "url": "https://download.sublimetext.com/Sublime Text Build $cleanVersion.zip"
+            }
+        }
+    }
     "notes": "This is a beta version of Sublime Text 3. For more information please see https://www.sublimetext.com/3dev",
     "shortcuts": [
         [
