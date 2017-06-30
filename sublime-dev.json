@@ -11,7 +11,7 @@
     },
     "bin": "subl.exe",
     "checkver": "The current Sublime Text 3 dev build is ([^\\ ]+)",
-     "autoupdate": {
+    "autoupdate": {
         "architecture": {
             "64bit": {
                 "url": "https://download.sublimetext.com/Sublime Text Build $cleanVersion x64.zip"
