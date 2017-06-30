@@ -10,7 +10,7 @@
         }
     },
     "bin": "subl.exe",
-    "checkver": "The current Sublime Text 3 dev build is ([^\\ ]+)",
+    "checkver": "The current Sublime Text 3 dev build is ([\\d.]+)",
     "autoupdate": {
         "architecture": {
             "64bit": {
